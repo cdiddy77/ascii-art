@@ -8,3 +8,7 @@
 # Gas City
 .beads/*
 !.beads/identity.toml
+
+# Gas City runtime (rig)
+.gc/
+FACTORY_LOG.md
